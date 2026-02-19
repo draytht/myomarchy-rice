@@ -1,0 +1,19 @@
+cat <<EOF > ~/myomarchy-rice/.gitignore
+
+# Ignore sensitive or local system files
+
+.DS_Store
+
+*.log
+
+*.tmp
+
+.cache/
+
+.bash_history
+
+.zsh_history
+
+auth/
+
+EOF
