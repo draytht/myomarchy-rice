@@ -1,5 +1,3 @@
-cat <<EOF > ~/myomarchy-rice/.gitignore
-
 # Ignore sensitive or local system files
 
 .DS_Store
@@ -15,5 +13,3 @@ cat <<EOF > ~/myomarchy-rice/.gitignore
 .zsh_history
 
 auth/
-
-EOF
