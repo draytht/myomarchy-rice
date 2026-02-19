@@ -47,7 +47,6 @@ To replicate this look exactly, ensure you have the following installed on Arch 
 * **Cleanliness**: It avoids the "cluttered" look of traditional bars by using centered modules and spacing.
 * **Performance**: It relies on native Waybar modules and lightweight scripts rather than heavy external applications.
 
-**Would you like me to help you take a high-quality screenshot of your desktop using `grim` and `slurp` so you can add it to the top of this README?**
 
 
 <img width="2560" height="1439" alt="image" src="https://github.com/user-attachments/assets/68b3e862-c395-4841-b991-2aaae3f23f80" />
